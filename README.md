@@ -8,6 +8,6 @@
 ## Woocommerce
 - [Miniaturas listados](https://gist.github.com/krogsgard/3015581)
 
-# Wordpress
+## Wordpress
 - [Ejecutar al actualizar post](https://gist.github.com/vivirenremoto/46b12faad756028c05f447c6fa1aa615)
 - [Crear nuevo menú](https://premium.wpmudev.org/blog/add-menus-to-wordpress/)
