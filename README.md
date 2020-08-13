@@ -24,4 +24,6 @@
 - [Añadir código header/footer](https://es.wordpress.org/plugins/insert-headers-and-footers/)
 - [Editor clasico](https://es.wordpress.org/plugins/classic-editor/)
 - [Cambiar url admin](https://es.wordpress.org/plugins/wps-hide-login/)
-- [Elementor diseño web](https://es.wordpress.org/plugins/elementor/)
+- [Diseñador webs Elementor](https://es.wordpress.org/plugins/elementor/)
+- [Tienda Woocommerce](https://es.wordpress.org/plugins/woocommerce/)
+- [Reducir peso imagenes](https://es.wordpress.org/plugins/wp-smushit/)
