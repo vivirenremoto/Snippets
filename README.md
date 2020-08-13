@@ -28,3 +28,4 @@
 - [Diseñador webs Elementor](https://es.wordpress.org/plugins/elementor/)
 - [Tienda Woocommerce](https://es.wordpress.org/plugins/woocommerce/)
 - [Reducir peso imagenes](https://es.wordpress.org/plugins/wp-smushit/)
+- [Multidioma Weglot](https://es.wordpress.org/plugins/weglot/)
