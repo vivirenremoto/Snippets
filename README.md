@@ -29,3 +29,4 @@
 - [Tienda Woocommerce](https://es.wordpress.org/plugins/woocommerce/)
 - [Reducir peso imagenes](https://es.wordpress.org/plugins/wp-smushit/)
 - [Multidioma Weglot](https://es.wordpress.org/plugins/weglot/)
+- [SEO Rankmath](https://es.wordpress.org/plugins/seo-by-rank-math/)
