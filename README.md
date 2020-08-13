@@ -18,3 +18,10 @@
 
 ## PHP
 - [Mostrar errores PHP](https://gist.github.com/vivirenremoto/48a620b576397a8fe675d894bce7e2f6)
+
+
+## Plugins wordpress
+- [Añadir código header/footer](https://es.wordpress.org/plugins/insert-headers-and-footers/)
+- [Editor clasico](https://es.wordpress.org/plugins/classic-editor/)
+- [Cambiar url admin](https://es.wordpress.org/plugins/wps-hide-login/)
+- [Elementor diseño web](https://es.wordpress.org/plugins/elementor/)
