@@ -14,3 +14,6 @@
 - [Ejecutar al actualizar post](https://gist.github.com/vivirenremoto/46b12faad756028c05f447c6fa1aa615)
 - [Crear nuevo menú](https://premium.wpmudev.org/blog/add-menus-to-wordpress/)
 - [Otros snippets wp 5.5](https://hablandodeinternet.com/fragmentos-codigo-wordpress-5-5/)
+
+## PHP
+- [Mostrar errores PHP](https://gist.github.com/vivirenremoto/48a620b576397a8fe675d894bce7e2f6)
