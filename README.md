@@ -14,6 +14,7 @@
 - [Desactivar revisiones posts](https://gist.github.com/timoleinio/5522130)
 - [Ejecutar al actualizar post](https://gist.github.com/vivirenremoto/46b12faad756028c05f447c6fa1aa615)
 - [Crear nuevo menú](https://premium.wpmudev.org/blog/add-menus-to-wordpress/)
+- [Debug](https://gist.github.com/jrfnl/5925642)
 - [Otros snippets wp 5.5](https://hablandodeinternet.com/fragmentos-codigo-wordpress-5-5/)
 
 ## PHP
