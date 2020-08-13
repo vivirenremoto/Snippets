@@ -9,6 +9,7 @@
 - [Miniaturas listados](https://gist.github.com/krogsgard/3015581)
 
 ## Wordpress
+- [Dominio personalizado localhost](https://gist.github.com/vivirenremoto/30d06ea0b036a23a8dafcbc1e2139c8f)
 - [Desactivar sitemap](https://gist.github.com/vivirenremoto/24660affffe2f6956066e8b70bf7ef17)
 - [Desactivar revisiones posts](https://gist.github.com/timoleinio/5522130)
 - [Ejecutar al actualizar post](https://gist.github.com/vivirenremoto/46b12faad756028c05f447c6fa1aa615)
