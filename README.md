@@ -3,6 +3,7 @@
 ## Yoast
 - [Eliminar canonical](https://gist.github.com/amboutwe/2aa7dcc9a38986e11fac68c7306cc091#file-yoast_seo_canonical_remove-php)
 - [Cambiar canonical](https://gist.github.com/amboutwe/2aa7dcc9a38986e11fac68c7306cc091#file-yoast_seo_canonical_change_woocom_shop-php)
+- [Meta robots](https://gist.github.com/amboutwe/0c71e42aa164238007d7ea88f174a93f)
 - [Otros](https://gist.github.com/amboutwe)
 
 ## Woocommerce
