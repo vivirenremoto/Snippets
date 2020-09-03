@@ -35,4 +35,4 @@
 - [Redirección https](https://es.wordpress.org/plugins/really-simple-ssl/)
 - [Premmerce Permalink Manager for WooCommerce - quitar categoria-producto, falta redirecciones](https://es.wordpress.org/plugins/woo-permalink-manager/)
 - [Redirection - Redirecciones 301](https://es.wordpress.org/plugins/redirection/)
-- [Custom Permalinks  Personalizar urls](https://es.wordpress.org/plugins/custom-permalinks/)
+- [Custom Permalinks - Personalizar urls](https://es.wordpress.org/plugins/custom-permalinks/)
